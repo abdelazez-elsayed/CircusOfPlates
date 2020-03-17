@@ -1,0 +1,1790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_211" class="java.beans.XMLDecoder">
+ <int>2</int>
+ <int>2</int>
+ <int>2</int>
+ <int>3</int>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>BlueBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object class="eg.edu.alexu.csd.oop.game.sample.State.FallingState" id="FallingState0"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>500</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>378</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>0</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>BlueBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="FallingState0"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>500</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>378</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>0</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>RedBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object class="eg.edu.alexu.csd.oop.game.sample.State.CaughtState" id="CaughtState0"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>750</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>322</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>1</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>BlueBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object class="eg.edu.alexu.csd.oop.game.sample.State.FloorState" id="FloorState0"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>300</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>676</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>2</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>BlueBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="FloorState0"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>300</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>676</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>2</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>PurpleBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object class="eg.edu.alexu.csd.oop.game.sample.State.FallingState" id="FallingState1"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>950</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>668</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>3</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>PurpleBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="FallingState1"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>950</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>668</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>3</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>YellowBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object class="eg.edu.alexu.csd.oop.game.sample.State.FallingState" id="FallingState2"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>500</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>238</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>0</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>YellowBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="FallingState2"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>500</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>238</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>0</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>BlueBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object class="eg.edu.alexu.csd.oop.game.sample.State.FallingState" id="FallingState3"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>300</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>538</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>2</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>BlueBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="FallingState3"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>300</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>538</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>2</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>RedBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object class="eg.edu.alexu.csd.oop.game.sample.State.FallingState" id="FallingState4"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>750</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>218</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>1</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>RedBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="FallingState4"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>750</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>218</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>1</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>RedBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object class="eg.edu.alexu.csd.oop.game.sample.State.FallingState" id="FallingState5"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>500</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>98</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>0</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>RedBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="FallingState5"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>500</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>98</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>0</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>PurpleBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object class="eg.edu.alexu.csd.oop.game.sample.State.FallingState" id="FallingState6"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>300</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>398</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>2</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>PurpleBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="FallingState6"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>300</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>398</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>2</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>PurpleBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object class="eg.edu.alexu.csd.oop.game.sample.State.ShelfState" id="ShelfState0"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>752</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>70</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>1</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>PurpleBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="ShelfState0"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>752</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>70</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>1</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>PurpleBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object class="eg.edu.alexu.csd.oop.game.sample.State.ShelfState" id="ShelfState1"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>388</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>70</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>0</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>PurpleBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="ShelfState1"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>388</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>70</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>0</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>BlueBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object class="eg.edu.alexu.csd.oop.game.sample.State.FallingState" id="FallingState7"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>300</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>258</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>2</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>BlueBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="FallingState7"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>300</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>258</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>2</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>PurpleBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object class="eg.edu.alexu.csd.oop.game.sample.State.ShelfState" id="ShelfState2"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>902</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>70</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>1</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>PurpleBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="ShelfState2"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>902</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>70</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>1</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>PurpleBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object class="eg.edu.alexu.csd.oop.game.sample.State.ShelfState" id="ShelfState3"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>248</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>70</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>0</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>PurpleBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="ShelfState3"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>248</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>70</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>0</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>BlueBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object class="eg.edu.alexu.csd.oop.game.sample.State.ShelfState" id="ShelfState4"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>248</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>170</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>2</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>BlueBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="ShelfState4"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>248</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>170</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>2</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>BlueBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object class="eg.edu.alexu.csd.oop.game.sample.State.ShelfState" id="ShelfState5"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>1052</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>70</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>1</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>BlueBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="ShelfState5"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>1052</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>70</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>1</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>PurpleBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object class="eg.edu.alexu.csd.oop.game.sample.State.ShelfState" id="ShelfState6"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>108</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>70</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>0</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>PurpleBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="ShelfState6"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>108</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>70</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>0</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>RedBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object class="eg.edu.alexu.csd.oop.game.sample.State.ShelfState" id="ShelfState7"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>108</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>170</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>2</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>RedBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="ShelfState7"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>108</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>170</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>2</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>YellowBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object class="eg.edu.alexu.csd.oop.game.sample.State.ShelfState" id="ShelfState8"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>1202</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>70</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>1</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>YellowBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="ShelfState8"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>1202</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>70</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>1</int>
+  </void>
+ </object>
+ <int>3</int>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>BlueBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="FallingState0"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>500</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>578</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>0</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>BlueBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="FallingState0"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>500</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>578</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>0</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>RedBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="CaughtState0"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>750</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>322</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>1</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>BlueBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="FloorState0"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>300</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>676</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>2</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>BlueBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="FloorState0"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>300</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>676</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>2</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>PurpleBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object class="eg.edu.alexu.csd.oop.game.sample.State.FloorState" id="FloorState1"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>950</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>676</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>3</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>PurpleBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="FloorState1"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>950</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>676</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>3</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>YellowBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="FallingState2"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>500</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>438</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>0</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>YellowBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="FallingState2"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>500</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>438</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>0</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>BlueBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object class="eg.edu.alexu.csd.oop.game.sample.State.FloorState" id="FloorState2"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>300</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>676</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>2</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>BlueBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="FloorState2"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>300</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>676</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>2</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>RedBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object class="eg.edu.alexu.csd.oop.game.sample.State.CaughtState"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>750</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>244</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>1</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>RedBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="FallingState5"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>500</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>297</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>0</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>RedBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="FallingState5"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>500</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>297</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>0</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>PurpleBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="FallingState6"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>300</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>598</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>2</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>PurpleBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="FallingState6"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>300</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>598</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>2</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>PurpleBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object class="eg.edu.alexu.csd.oop.game.sample.State.CaughtState"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>750</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>165</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>1</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>PurpleBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object class="eg.edu.alexu.csd.oop.game.sample.State.FallingState" id="FallingState8"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>500</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>158</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>0</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>PurpleBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="FallingState8"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>500</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>158</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>0</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>BlueBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="FallingState7"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>300</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>458</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>2</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>BlueBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="FallingState7"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>300</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>458</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>2</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>PurpleBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object class="eg.edu.alexu.csd.oop.game.sample.State.CaughtState"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>750</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>86</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>1</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>PurpleBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="ShelfState3"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>447</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>70</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>0</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>PurpleBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="ShelfState3"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>447</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>70</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>0</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>BlueBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object class="eg.edu.alexu.csd.oop.game.sample.State.FallingState" id="FallingState9"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>300</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>318</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>2</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>BlueBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="FallingState9"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>300</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>318</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>2</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>BlueBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="ShelfState5"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>852</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>70</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>1</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>BlueBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="ShelfState5"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>852</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>70</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>1</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>PurpleBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="ShelfState6"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>308</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>70</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>0</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>PurpleBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="ShelfState6"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>308</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>70</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>0</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>RedBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object class="eg.edu.alexu.csd.oop.game.sample.State.FallingState" id="FallingState10"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>300</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>178</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>2</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>RedBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="FallingState10"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>300</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>178</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>2</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>YellowBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="ShelfState8"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>1002</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>70</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>1</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>YellowBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="ShelfState8"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>1002</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>70</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>1</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>YellowBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object class="eg.edu.alexu.csd.oop.game.sample.State.ShelfState" id="ShelfState9"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>168</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>70</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>0</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>YellowBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="ShelfState9"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>168</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>70</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>0</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>PurpleBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object class="eg.edu.alexu.csd.oop.game.sample.State.ShelfState" id="ShelfState10"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>168</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>170</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>2</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>PurpleBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="ShelfState10"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>168</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>170</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>2</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>RedBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object class="eg.edu.alexu.csd.oop.game.sample.State.ShelfState" id="ShelfState11"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>1152</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>70</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>1</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>RedBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="ShelfState11"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>1152</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>70</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>1</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>YellowBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object class="eg.edu.alexu.csd.oop.game.sample.State.ShelfState" id="ShelfState12"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>28</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>70</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>0</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>YellowBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="ShelfState12"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>28</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>70</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>0</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>PurpleBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object class="eg.edu.alexu.csd.oop.game.sample.State.ShelfState" id="ShelfState13"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>28</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>170</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>2</int>
+  </void>
+ </object>
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>Path</string>
+   <string>PurpleBall</string>
+  </void>
+  <void method="put">
+   <string>State</string>
+   <object idref="ShelfState13"/>
+  </void>
+  <void method="put">
+   <string>X</string>
+   <int>28</int>
+  </void>
+  <void method="put">
+   <string>Y</string>
+   <int>170</int>
+  </void>
+  <void method="put">
+   <string>Gate</string>
+   <int>2</int>
+  </void>
+ </object>
+</java>
